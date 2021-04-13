@@ -1,7 +1,14 @@
 # Linear Regression with TensorFlow 2.0
 
-* [Click here](https://youtu.be/00NtS8XDR-U)
-* Click on the image below
+## To view the video
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=00NtS8XDR-U" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/00NtS8XDR-U?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Linear Regression with TensorFlow 2.0](http://img.youtube.com/vi/00NtS8XDR-U/0.jpg)](http://www.youtube.com/watch?v=00NtS8XDR-U)
 
